@@ -1,0 +1,6 @@
+train: ../Avocado_780_1024_TEST2_P_P2/train/images/
+val: ../Avocado_780_1024_TEST2_P_P2/valid/images/
+# number of classes
+nc: 3
+# class names
+names: [ 'Level1', 'Level2', 'Level3' ]
